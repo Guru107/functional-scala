@@ -1,0 +1,2 @@
+# functional-scala
+Scala snippets
